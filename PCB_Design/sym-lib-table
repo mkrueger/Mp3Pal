@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name rfid-rc522-module)(type Legacy)(uri C:/Users/mkrue/Downloads/some-kicad-components-master/lib/rfid-rc522-module.lib)(options "")(descr ""))
+  (lib (name Mp3Pal-rescue)(type Legacy)(uri ${KIPRJMOD}/Mp3Pal-rescue.lib)(options "")(descr ""))
+)
